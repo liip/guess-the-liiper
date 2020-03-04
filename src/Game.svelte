@@ -18,7 +18,6 @@
     ...d,
     url: `https://liip.rokka.io/www_liipersmall_3/${d.rokka_picture_hash}.jpeg`
   }));
-  console.log(politicians);
 
   const dispatch = createEventDispatcher();
   const maxRounds = 10;
