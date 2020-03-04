@@ -1,0 +1,427 @@
+[
+  {
+    "ID": 12,
+    "Language": "DE",
+    "PartyAbbreviation": "SP"
+  },
+  {
+    "ID": 12,
+    "Language": "EN",
+    "PartyAbbreviation": "PSS"
+  },
+  {
+    "ID": 12,
+    "Language": "FR",
+    "PartyAbbreviation": "PSS"
+  },
+  {
+    "ID": 12,
+    "Language": "IT",
+    "PartyAbbreviation": "PSS"
+  },
+  {
+    "ID": 12,
+    "Language": "RM",
+    "PartyAbbreviation": "SP"
+  },
+  {
+    "ID": 13,
+    "Language": "DE",
+    "PartyAbbreviation": "SVP"
+  },
+  {
+    "ID": 13,
+    "Language": "EN",
+    "PartyAbbreviation": "UDC"
+  },
+  {
+    "ID": 13,
+    "Language": "FR",
+    "PartyAbbreviation": "UDC"
+  },
+  {
+    "ID": 13,
+    "Language": "IT",
+    "PartyAbbreviation": "UDC"
+  },
+  {
+    "ID": 13,
+    "Language": "RM",
+    "PartyAbbreviation": "SVP"
+  },
+  {
+    "ID": 14,
+    "Language": "DE",
+    "PartyAbbreviation": "CVP"
+  },
+  {
+    "ID": 14,
+    "Language": "EN",
+    "PartyAbbreviation": "PDC"
+  },
+  {
+    "ID": 14,
+    "Language": "FR",
+    "PartyAbbreviation": "PDC"
+  },
+  {
+    "ID": 14,
+    "Language": "IT",
+    "PartyAbbreviation": "PPD"
+  },
+  {
+    "ID": 14,
+    "Language": "RM",
+    "PartyAbbreviation": "CVP"
+  },
+  {
+    "ID": 15,
+    "Language": "DE",
+    "PartyAbbreviation": "FDP-Liberale"
+  },
+  {
+    "ID": 15,
+    "Language": "EN",
+    "PartyAbbreviation": "PLR"
+  },
+  {
+    "ID": 15,
+    "Language": "FR",
+    "PartyAbbreviation": "PLR"
+  },
+  {
+    "ID": 15,
+    "Language": "IT",
+    "PartyAbbreviation": "PLR"
+  },
+  {
+    "ID": 15,
+    "Language": "RM",
+    "PartyAbbreviation": "FDP-Liberale"
+  },
+  {
+    "ID": 16,
+    "Language": "DE",
+    "PartyAbbreviation": "LDP"
+  },
+  {
+    "ID": 16,
+    "Language": "EN",
+    "PartyAbbreviation": "PLD"
+  },
+  {
+    "ID": 16,
+    "Language": "FR",
+    "PartyAbbreviation": "PLD"
+  },
+  {
+    "ID": 16,
+    "Language": "IT",
+    "PartyAbbreviation": "PLD"
+  },
+  {
+    "ID": 16,
+    "Language": "RM",
+    "PartyAbbreviation": "LDP"
+  },
+  {
+    "ID": 18,
+    "Language": "DE",
+    "PartyAbbreviation": "EVP"
+  },
+  {
+    "ID": 18,
+    "Language": "EN",
+    "PartyAbbreviation": "PEV"
+  },
+  {
+    "ID": 18,
+    "Language": "FR",
+    "PartyAbbreviation": "PEV"
+  },
+  {
+    "ID": 18,
+    "Language": "IT",
+    "PartyAbbreviation": "PEV"
+  },
+  {
+    "ID": 18,
+    "Language": "RM",
+    "PartyAbbreviation": "EVP"
+  },
+  {
+    "ID": 20,
+    "Language": "DE",
+    "PartyAbbreviation": "GPS"
+  },
+  {
+    "ID": 20,
+    "Language": "EN",
+    "PartyAbbreviation": "PES"
+  },
+  {
+    "ID": 20,
+    "Language": "FR",
+    "PartyAbbreviation": "PES"
+  },
+  {
+    "ID": 20,
+    "Language": "IT",
+    "PartyAbbreviation": "PES"
+  },
+  {
+    "ID": 20,
+    "Language": "RM",
+    "PartyAbbreviation": "GPS"
+  },
+  {
+    "ID": 22,
+    "Language": "DE",
+    "PartyAbbreviation": "PdA"
+  },
+  {
+    "ID": 22,
+    "Language": "EN",
+    "PartyAbbreviation": "PdT"
+  },
+  {
+    "ID": 22,
+    "Language": "FR",
+    "PartyAbbreviation": "PdT"
+  },
+  {
+    "ID": 22,
+    "Language": "IT",
+    "PartyAbbreviation": "PdL"
+  },
+  {
+    "ID": 22,
+    "Language": "RM",
+    "PartyAbbreviation": "PdA"
+  },
+  {
+    "ID": 23,
+    "Language": "DE",
+    "PartyAbbreviation": "Lega"
+  },
+  {
+    "ID": 23,
+    "Language": "EN",
+    "PartyAbbreviation": "Lega"
+  },
+  {
+    "ID": 23,
+    "Language": "FR",
+    "PartyAbbreviation": "Lega"
+  },
+  {
+    "ID": 23,
+    "Language": "IT",
+    "PartyAbbreviation": "Lega"
+  },
+  {
+    "ID": 23,
+    "Language": "RM",
+    "PartyAbbreviation": "Lega"
+  },
+  {
+    "ID": 24,
+    "Language": "DE",
+    "PartyAbbreviation": "EDU"
+  },
+  {
+    "ID": 24,
+    "Language": "EN",
+    "PartyAbbreviation": "UDF"
+  },
+  {
+    "ID": 24,
+    "Language": "FR",
+    "PartyAbbreviation": "UDF"
+  },
+  {
+    "ID": 24,
+    "Language": "IT",
+    "PartyAbbreviation": "UDF"
+  },
+  {
+    "ID": 24,
+    "Language": "RM",
+    "PartyAbbreviation": "EDU"
+  },
+  {
+    "ID": 26,
+    "Language": "DE",
+    "PartyAbbreviation": "-"
+  },
+  {
+    "ID": 26,
+    "Language": "EN",
+    "PartyAbbreviation": "-"
+  },
+  {
+    "ID": 26,
+    "Language": "FR",
+    "PartyAbbreviation": "-"
+  },
+  {
+    "ID": 26,
+    "Language": "IT",
+    "PartyAbbreviation": "-"
+  },
+  {
+    "ID": 26,
+    "Language": "RM",
+    "PartyAbbreviation": "-"
+  },
+  {
+    "ID": 1336,
+    "Language": "DE",
+    "PartyAbbreviation": "glp"
+  },
+  {
+    "ID": 1336,
+    "Language": "EN",
+    "PartyAbbreviation": "pvl"
+  },
+  {
+    "ID": 1336,
+    "Language": "FR",
+    "PartyAbbreviation": "pvl"
+  },
+  {
+    "ID": 1336,
+    "Language": "IT",
+    "PartyAbbreviation": "pvl"
+  },
+  {
+    "ID": 1336,
+    "Language": "RM",
+    "PartyAbbreviation": "glp"
+  },
+  {
+    "ID": 1551,
+    "Language": "DE",
+    "PartyAbbreviation": "BDP"
+  },
+  {
+    "ID": 1551,
+    "Language": "EN",
+    "PartyAbbreviation": "PBD"
+  },
+  {
+    "ID": 1551,
+    "Language": "FR",
+    "PartyAbbreviation": "PBD"
+  },
+  {
+    "ID": 1551,
+    "Language": "IT",
+    "PartyAbbreviation": "PBD"
+  },
+  {
+    "ID": 1551,
+    "Language": "RM",
+    "PartyAbbreviation": "BDP"
+  },
+  {
+    "ID": 1582,
+    "Language": "DE",
+    "PartyAbbreviation": "BastA"
+  },
+  {
+    "ID": 1582,
+    "Language": "EN",
+    "PartyAbbreviation": "BastA"
+  },
+  {
+    "ID": 1582,
+    "Language": "FR",
+    "PartyAbbreviation": "BastA"
+  },
+  {
+    "ID": 1582,
+    "Language": "IT",
+    "PartyAbbreviation": "BastA"
+  },
+  {
+    "ID": 1582,
+    "Language": "RM",
+    "PartyAbbreviation": "BastA"
+  },
+  {
+    "ID": 1583,
+    "Language": "DE",
+    "PartyAbbreviation": "CVPO"
+  },
+  {
+    "ID": 1583,
+    "Language": "EN",
+    "PartyAbbreviation": "CVPO"
+  },
+  {
+    "ID": 1583,
+    "Language": "FR",
+    "PartyAbbreviation": "CVPO"
+  },
+  {
+    "ID": 1583,
+    "Language": "IT",
+    "PartyAbbreviation": "CVPO"
+  },
+  {
+    "ID": 1583,
+    "Language": "RM",
+    "PartyAbbreviation": "CVPO"
+  },
+  {
+    "ID": 1584,
+    "Language": "DE",
+    "PartyAbbreviation": "Al"
+  },
+  {
+    "ID": 1584,
+    "Language": "EN",
+    "PartyAbbreviation": "Al"
+  },
+  {
+    "ID": 1584,
+    "Language": "FR",
+    "PartyAbbreviation": "Al"
+  },
+  {
+    "ID": 1584,
+    "Language": "IT",
+    "PartyAbbreviation": "Al"
+  },
+  {
+    "ID": 1584,
+    "Language": "RM",
+    "PartyAbbreviation": "Al"
+  },
+  {
+    "ID": 1585,
+    "Language": "DE",
+    "PartyAbbreviation": "EGsolS"
+  },
+  {
+    "ID": 1585,
+    "Language": "EN",
+    "PartyAbbreviation": "EGsolS"
+  },
+  {
+    "ID": 1585,
+    "Language": "FR",
+    "PartyAbbreviation": "EGsolS"
+  },
+  {
+    "ID": 1585,
+    "Language": "IT",
+    "PartyAbbreviation": "EGsolS"
+  },
+  {
+    "ID": 1585,
+    "Language": "RM",
+    "PartyAbbreviation": "EGsolS"
+  }
+]

@@ -1,21 +1,21 @@
 # guess the liiper v 2.0
 
-# install 
+## install 
 ```
 yarn
 ```
 
-# run dev server
+## run dev server
 ```
 yarn dev
 ```
 
-# build prod
+## build prod
 ```
 yarn build
 ```
 
-# run prod build
+## run prod build
 ```
 yarn start
 ```

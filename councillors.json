@@ -1,0 +1,2622 @@
+[
+  {
+    "ID": 74,
+    "FirstName": "Christoph",
+    "LastName": "Eymann",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2287.jpg-.jpg",
+    "PartyAbbreviation": "LDP",
+    "Party": 16,
+    "Council": 1
+  },
+  {
+    "ID": 146,
+    "FirstName": "Ueli",
+    "LastName": "Maurer",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2310.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 99
+  },
+  {
+    "ID": 172,
+    "FirstName": "Paul",
+    "LastName": "Rechsteiner",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2143.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 2
+  },
+  {
+    "ID": 341,
+    "FirstName": "Liliane",
+    "LastName": "Maury Pasquier",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2405.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 2
+  },
+  {
+    "ID": 491,
+    "FirstName": "Pierre-Yves",
+    "LastName": "Maillard",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2513.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 512,
+    "FirstName": "Simonetta",
+    "LastName": "Sommaruga",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2534.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 99
+  },
+  {
+    "ID": 525,
+    "FirstName": "Roberto",
+    "LastName": "Zanetti",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2546.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 2
+  },
+  {
+    "ID": 540,
+    "FirstName": "Filippo",
+    "LastName": "Lombardi",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2561.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 724,
+    "FirstName": "Daniel",
+    "LastName": "Brélaz",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2023.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 806,
+    "FirstName": "Maya",
+    "LastName": "Graf",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2569.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 2
+  },
+  {
+    "ID": 825,
+    "FirstName": "Hannes",
+    "LastName": "Germann",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2575.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 2
+  },
+  {
+    "ID": 1071,
+    "FirstName": "Ruth",
+    "LastName": "Humbel",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2580.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 1106,
+    "FirstName": "Brigitte",
+    "LastName": "Häberli-Koller",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2600.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 1108,
+    "FirstName": "Guy",
+    "LastName": "Parmelin",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2621.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 99
+  },
+  {
+    "ID": 1109,
+    "FirstName": "Gerhard",
+    "LastName": "Pfister",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2623.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 1120,
+    "FirstName": "Carlo",
+    "LastName": "Sommaruga",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2632.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 2
+  },
+  {
+    "ID": 1122,
+    "FirstName": "Kurt",
+    "LastName": "Fluri",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2594.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 1138,
+    "FirstName": "Martin",
+    "LastName": "Bäumle",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2585.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 1139,
+    "FirstName": "Christa",
+    "LastName": "Markwalder",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2614.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 1142,
+    "FirstName": "Walter",
+    "LastName": "Wobmann",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2638.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 1150,
+    "FirstName": "Christian",
+    "LastName": "Levrat",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2613.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 2
+  },
+  {
+    "ID": 1153,
+    "FirstName": "Ruedi",
+    "LastName": "Noser",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2619.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 1159,
+    "FirstName": "Pirmin",
+    "LastName": "Schwander",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2631.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 1161,
+    "FirstName": "Alain",
+    "LastName": "Berset",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2642.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 99
+  },
+  {
+    "ID": 1162,
+    "FirstName": "Alex",
+    "LastName": "Kuprecht",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2641.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 2
+  },
+  {
+    "ID": 1267,
+    "FirstName": "Hans",
+    "LastName": "Stöckli",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2647.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 2
+  },
+  {
+    "ID": 1279,
+    "FirstName": "Roger",
+    "LastName": "Nordmann",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2648.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 1288,
+    "FirstName": "Viola",
+    "LastName": "Amherd",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2646.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 99
+  },
+  {
+    "ID": 1295,
+    "FirstName": "Edith",
+    "LastName": "Graf-Litscher",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2652.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 1337,
+    "FirstName": "Ida",
+    "LastName": "Glanzmann-Hunkeler",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2657.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 1345,
+    "FirstName": "Thomas",
+    "LastName": "Müller",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2661.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 1346,
+    "FirstName": "Isabelle",
+    "LastName": "Moret",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2660.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 3828,
+    "FirstName": "Ignazio",
+    "LastName": "Cassis",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2664.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 99
+  },
+  {
+    "ID": 3830,
+    "FirstName": "Marina",
+    "LastName": "Carobbio Guscetti",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2666.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 2
+  },
+  {
+    "ID": 3867,
+    "FirstName": "Andreas",
+    "LastName": "Aebi",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2670.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 3871,
+    "FirstName": "Pirmin",
+    "LastName": "Bischof",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2674.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 3872,
+    "FirstName": "Jacques",
+    "LastName": "Bourgeois",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2675.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 3876,
+    "FirstName": "Yvette",
+    "LastName": "Estermann",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2679.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 3877,
+    "FirstName": "Doris",
+    "LastName": "Fiala",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2680.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 3879,
+    "FirstName": "Olivier",
+    "LastName": "Français",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2682.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 3880,
+    "FirstName": "Andrea Martina",
+    "LastName": "Geissbühler",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2683.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 3882,
+    "FirstName": "Bastien",
+    "LastName": "Girod",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2685.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 3885,
+    "FirstName": "Jean-Pierre",
+    "LastName": "Grin",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2688.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 3887,
+    "FirstName": "Alfred",
+    "LastName": "Heer",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2690.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 3890,
+    "FirstName": "Thomas",
+    "LastName": "Hurter",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2693.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 3891,
+    "FirstName": "Daniel",
+    "LastName": "Jositsch",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2694.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 2
+  },
+  {
+    "ID": 3895,
+    "FirstName": "Christian",
+    "LastName": "Lüscher",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2698.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 3897,
+    "FirstName": "Tiana Angelina",
+    "LastName": "Moser",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2700.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 3898,
+    "FirstName": "Yves",
+    "LastName": "Nidegger",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2701.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 3899,
+    "FirstName": "Eric",
+    "LastName": "Nussbaumer",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2702.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 3901,
+    "FirstName": "Lukas",
+    "LastName": "Reimann",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2704.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 3907,
+    "FirstName": "Adèle",
+    "LastName": "Thorens Goumaz",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2710.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 2
+  },
+  {
+    "ID": 3910,
+    "FirstName": "Erich",
+    "LastName": "von Siebenthal",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2713.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 3912,
+    "FirstName": "Christian",
+    "LastName": "Wasserfallen",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2715.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 3923,
+    "FirstName": "Ada",
+    "LastName": "Marra",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2726.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 3999,
+    "FirstName": "Katharina",
+    "LastName": "Prelicz-Huber",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2732.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4008,
+    "FirstName": "Martin",
+    "LastName": "Landolt",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2735.jpg-.jpg",
+    "PartyAbbreviation": "BDP",
+    "Party": 1551,
+    "Council": 1
+  },
+  {
+    "ID": 4025,
+    "FirstName": "Roland Rino",
+    "LastName": "Büchel",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2740.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4026,
+    "FirstName": "Raphaël",
+    "LastName": "Comte",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2741.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4030,
+    "FirstName": "Prisca",
+    "LastName": "Birrer-Heimo",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2743.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4032,
+    "FirstName": "Beat",
+    "LastName": "Jans",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2745.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4036,
+    "FirstName": "Marianne",
+    "LastName": "Streiff-Feller",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2747.jpg-.jpg",
+    "PartyAbbreviation": "EVP",
+    "Party": 18,
+    "Council": 1
+  },
+  {
+    "ID": 4040,
+    "FirstName": "Elisabeth",
+    "LastName": "Schneider-Schneiter",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2748.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4046,
+    "FirstName": "Lorenzo",
+    "LastName": "Quadri",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2752.jpg-.jpg",
+    "PartyAbbreviation": "Lega",
+    "Party": 23,
+    "Council": 1
+  },
+  {
+    "ID": 4049,
+    "FirstName": "Matthias",
+    "LastName": "Aebischer",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2760.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4051,
+    "FirstName": "Thomas",
+    "LastName": "de Courten",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2757.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4052,
+    "FirstName": "Markus",
+    "LastName": "Ritter",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2754.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4053,
+    "FirstName": "Thomas",
+    "LastName": "Aeschi",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2758.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4054,
+    "FirstName": "Albert",
+    "LastName": "Vitali",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2761.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4055,
+    "FirstName": "Stefan",
+    "LastName": "Engler",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2768.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4056,
+    "FirstName": "Daniel",
+    "LastName": "Fässler",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2767.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4057,
+    "FirstName": "Cédric",
+    "LastName": "Wermuth",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2759.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4058,
+    "FirstName": "Jacqueline",
+    "LastName": "Badran",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2762.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4059,
+    "FirstName": "Beat",
+    "LastName": "Flach",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2765.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4060,
+    "FirstName": "Daniela",
+    "LastName": "Schneeberger",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2766.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4062,
+    "FirstName": "Karin",
+    "LastName": "Keller-Sutter",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2769.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 99
+  },
+  {
+    "ID": 4063,
+    "FirstName": "Stefan",
+    "LastName": "Müller-Altermatt",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2771.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4065,
+    "FirstName": "Nadja",
+    "LastName": "Pieren",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2781.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4069,
+    "FirstName": "Yvonne",
+    "LastName": "Feri",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2777.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4070,
+    "FirstName": "Martin",
+    "LastName": "Candinas",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2770.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4072,
+    "FirstName": "Fabio",
+    "LastName": "Regazzi",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2776.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4074,
+    "FirstName": "Pierre-Alain",
+    "LastName": "Fridez",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2778.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4075,
+    "FirstName": "Andrea",
+    "LastName": "Caroni",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2775.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4077,
+    "FirstName": "Olivier",
+    "LastName": "Feller",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2789.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4078,
+    "FirstName": "Martin",
+    "LastName": "Schmid",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2783.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4083,
+    "FirstName": "Jürg",
+    "LastName": "Grossen",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2786.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4087,
+    "FirstName": "Jean-Paul",
+    "LastName": "Gschwind",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2798.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4089,
+    "FirstName": "Roland",
+    "LastName": "Fischer",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2794.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4090,
+    "FirstName": "Céline",
+    "LastName": "Amaudruz",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2796.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4091,
+    "FirstName": "Mathias",
+    "LastName": "Reynard",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2795.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4093,
+    "FirstName": "Balthasar",
+    "LastName": "Glättli",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3003.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4094,
+    "FirstName": "Lorenz",
+    "LastName": "Hess",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-2799.jpg-.jpg",
+    "PartyAbbreviation": "BDP",
+    "Party": 1551,
+    "Council": 1
+  },
+  {
+    "ID": 4095,
+    "FirstName": "Regula",
+    "LastName": "Rytz",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3000.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4096,
+    "FirstName": "Alois",
+    "LastName": "Gmür",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3001.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4097,
+    "FirstName": "Leo",
+    "LastName": "Müller",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3012.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4098,
+    "FirstName": "Peter",
+    "LastName": "Keller",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3013.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4100,
+    "FirstName": "Albert",
+    "LastName": "Rösti",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3010.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4101,
+    "FirstName": "Christine",
+    "LastName": "Bulliard-Marbach",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3017.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4102,
+    "FirstName": "Kathrin",
+    "LastName": "Bertschy",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3016.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4108,
+    "FirstName": "Isabelle",
+    "LastName": "Chevalley",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3604.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4109,
+    "FirstName": "Valérie",
+    "LastName": "Piller Carrard",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3009.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4112,
+    "FirstName": "Thomas",
+    "LastName": "Minder",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3019.jpg-.jpg",
+    "PartyAbbreviation": "-",
+    "Party": 26,
+    "Council": 2
+  },
+  {
+    "ID": 4113,
+    "FirstName": "Manuel",
+    "LastName": "Tornare",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3007.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4114,
+    "FirstName": "Hansjörg",
+    "LastName": "Knecht",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3021.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 2
+  },
+  {
+    "ID": 4116,
+    "FirstName": "Petra",
+    "LastName": "Gössi",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3023.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4118,
+    "FirstName": "Christian",
+    "LastName": "Lohr",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3024.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4120,
+    "FirstName": "Marco",
+    "LastName": "Romano",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3025.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4121,
+    "FirstName": "Barbara",
+    "LastName": "Gysi",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3026.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4123,
+    "FirstName": "Ursula",
+    "LastName": "Schneider Schüttel",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3028.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4125,
+    "FirstName": "Gregor",
+    "LastName": "Rutz",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3030.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4128,
+    "FirstName": "Aline",
+    "LastName": "Trede",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3032.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4129,
+    "FirstName": "Verena",
+    "LastName": "Herzog",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3033.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4130,
+    "FirstName": "Nadine",
+    "LastName": "Masshardt",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3034.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4131,
+    "FirstName": "Claudia",
+    "LastName": "Friedl",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3035.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4134,
+    "FirstName": "Martina",
+    "LastName": "Munz",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3036.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4139,
+    "FirstName": "Thomas",
+    "LastName": "Hefti",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3041.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4141,
+    "FirstName": "Hans-Peter",
+    "LastName": "Portmann",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3043.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4142,
+    "FirstName": "Beat",
+    "LastName": "Walti",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3044.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4144,
+    "FirstName": "Thomas",
+    "LastName": "Matter",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3046.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4146,
+    "FirstName": "Heinz",
+    "LastName": "Siegenthaler",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3048.jpg-.jpg",
+    "PartyAbbreviation": "BDP",
+    "Party": 1551,
+    "Council": 1
+  },
+  {
+    "ID": 4151,
+    "FirstName": "Josef",
+    "LastName": "Dittli",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3052.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4152,
+    "FirstName": "Hans",
+    "LastName": "Wicki",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3054.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4153,
+    "FirstName": "Peter",
+    "LastName": "Hegglin",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3053.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4154,
+    "FirstName": "Jean-Luc",
+    "LastName": "Addor",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3055.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4156,
+    "FirstName": "Michaël",
+    "LastName": "Buffat",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3062.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4158,
+    "FirstName": "Thomas",
+    "LastName": "Burgherr",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3064.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4159,
+    "FirstName": "Marco",
+    "LastName": "Chiesa",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3067.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 2
+  },
+  {
+    "ID": 4160,
+    "FirstName": "Marcel",
+    "LastName": "Dettling",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3069.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4161,
+    "FirstName": "Andreas",
+    "LastName": "Glarner",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3074.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4162,
+    "FirstName": "Franz",
+    "LastName": "Grüter",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3076.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4163,
+    "FirstName": "Erich",
+    "LastName": "Hess",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3078.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4164,
+    "FirstName": "Christian",
+    "LastName": "Imark",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3080.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4166,
+    "FirstName": "Roger",
+    "LastName": "Köppel",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3082.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4167,
+    "FirstName": "Magdalena",
+    "LastName": "Martullo-Blocher",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3085.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4168,
+    "FirstName": "Jacques",
+    "LastName": "Nicolet",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3089.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4169,
+    "FirstName": "Pierre-André",
+    "LastName": "Page",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3090.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4170,
+    "FirstName": "Franz",
+    "LastName": "Ruppen",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3091.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4172,
+    "FirstName": "Werner",
+    "LastName": "Salzmann",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3092.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 2
+  },
+  {
+    "ID": 4173,
+    "FirstName": "Sandra",
+    "LastName": "Sollberger",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3095.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4174,
+    "FirstName": "Barbara",
+    "LastName": "Steinemann",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3096.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4175,
+    "FirstName": "Mauro",
+    "LastName": "Tuena",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3097.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4176,
+    "FirstName": "Hans-Ueli",
+    "LastName": "Vogt",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3098.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4177,
+    "FirstName": "Bruno",
+    "LastName": "Walliser",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3099.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4179,
+    "FirstName": "David",
+    "LastName": "Zuberbühler",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3102.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4181,
+    "FirstName": "Andrea",
+    "LastName": "Gmür-Schönenberger",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3075.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4184,
+    "FirstName": "Sibel",
+    "LastName": "Arslan",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3058.jpg-.jpg",
+    "PartyAbbreviation": "BastA",
+    "Party": 1582,
+    "Council": 1
+  },
+  {
+    "ID": 4186,
+    "FirstName": "Lisa",
+    "LastName": "Mazzone",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3086.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 2
+  },
+  {
+    "ID": 4187,
+    "FirstName": "Philippe",
+    "LastName": "Bauer",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3059.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4188,
+    "FirstName": "Frédéric",
+    "LastName": "Borloz",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3061.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4189,
+    "FirstName": "Thierry",
+    "LastName": "Burkart",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3065.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4190,
+    "FirstName": "Marcel",
+    "LastName": "Dobler",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3070.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4193,
+    "FirstName": "Philippe",
+    "LastName": "Nantermod",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3088.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4194,
+    "FirstName": "Laurent",
+    "LastName": "Wehrli",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3100.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4195,
+    "FirstName": "Laurence",
+    "LastName": "Fehlmann Rielle",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3071.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4197,
+    "FirstName": "Min Li",
+    "LastName": "Marti",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3084.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4198,
+    "FirstName": "Mattea",
+    "LastName": "Meyer",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3087.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4199,
+    "FirstName": "Priska",
+    "LastName": "Seiler Graf",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3094.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4201,
+    "FirstName": "Denis",
+    "LastName": "de la Reussille",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3068.jpg-.jpg",
+    "PartyAbbreviation": "PdA",
+    "Party": 22,
+    "Council": 1
+  },
+  {
+    "ID": 4202,
+    "FirstName": "Regine",
+    "LastName": "Sauter",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3103.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4203,
+    "FirstName": "Angelo",
+    "LastName": "Barrile",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3104.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4204,
+    "FirstName": "Beat",
+    "LastName": "Rieder",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3105.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4206,
+    "FirstName": "Erich",
+    "LastName": "Ettlin",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3107.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4207,
+    "FirstName": "Damian",
+    "LastName": "Müller",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3108.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4208,
+    "FirstName": "Matthias Samuel",
+    "LastName": "Jauslin",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3109.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4210,
+    "FirstName": "Walter",
+    "LastName": "Thurnherr",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3112.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 98
+  },
+  {
+    "ID": 4213,
+    "FirstName": "Samuel",
+    "LastName": "Bendahan",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3114.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4214,
+    "FirstName": "Niklaus-Samuel",
+    "LastName": "Gugger",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3115.jpg-.jpg",
+    "PartyAbbreviation": "EVP",
+    "Party": 18,
+    "Council": 1
+  },
+  {
+    "ID": 4216,
+    "FirstName": "Diana",
+    "LastName": "Gutjahr",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3117.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4217,
+    "FirstName": "Rocco",
+    "LastName": "Cattaneo",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3118.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4218,
+    "FirstName": "Irène",
+    "LastName": "Kälin",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3119.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4219,
+    "FirstName": "Brigitte",
+    "LastName": "Crottaz",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3120.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4220,
+    "FirstName": "Benjamin",
+    "LastName": "Roduit",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3121.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4221,
+    "FirstName": "Michael",
+    "LastName": "Töngi",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3122.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4222,
+    "FirstName": "Nicolo",
+    "LastName": "Paganini",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3123.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4223,
+    "FirstName": "Fabian",
+    "LastName": "Molina",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3124.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4224,
+    "FirstName": "Flavia",
+    "LastName": "Wasserfallen",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3125.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4225,
+    "FirstName": "Philipp",
+    "LastName": "Kutter",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3126.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4228,
+    "FirstName": "Samira",
+    "LastName": "Marti",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3129.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4229,
+    "FirstName": "Mike",
+    "LastName": "Egger",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3130.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4230,
+    "FirstName": "Philipp Matthias",
+    "LastName": "Bregy",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3131.jpg-.jpg",
+    "PartyAbbreviation": "CVPO",
+    "Party": 1583,
+    "Council": 1
+  },
+  {
+    "ID": 4234,
+    "FirstName": "Therese",
+    "LastName": "Schläpfer",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3135.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4236,
+    "FirstName": "Martin",
+    "LastName": "Haab",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3134.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4237,
+    "FirstName": "Benedikt",
+    "LastName": "Würth",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3136.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4238,
+    "FirstName": "Elisabeth",
+    "LastName": "Baume-Schneider",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3193.jpg-.jpg",
+    "PartyAbbreviation": "PdA",
+    "Party": 22,
+    "Council": 2
+  },
+  {
+    "ID": 4239,
+    "FirstName": "Eva",
+    "LastName": "Herzog",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3194.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 2
+  },
+  {
+    "ID": 4240,
+    "FirstName": "Charles",
+    "LastName": "Juillard",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3195.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4241,
+    "FirstName": "Jakob",
+    "LastName": "Stark",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3196.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 2
+  },
+  {
+    "ID": 4242,
+    "FirstName": "Céline",
+    "LastName": "Vara",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3197.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 2
+  },
+  {
+    "ID": 4243,
+    "FirstName": "Heidi",
+    "LastName": "Z'graggen",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3198.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4244,
+    "FirstName": "Mathias",
+    "LastName": "Zopfi",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3199.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 2
+  },
+  {
+    "ID": 4245,
+    "FirstName": "Gerhard",
+    "LastName": "Andrey",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3137.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4246,
+    "FirstName": "Christine",
+    "LastName": "Badertscher",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3138.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4247,
+    "FirstName": "Kilian",
+    "LastName": "Baumann",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3139.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4248,
+    "FirstName": "Judith",
+    "LastName": "Bellaïche",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3140.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4249,
+    "FirstName": "Marianne",
+    "LastName": "Binder-Keller",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3141.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4250,
+    "FirstName": "Martina",
+    "LastName": "Bircher",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3142.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4251,
+    "FirstName": "Thomas",
+    "LastName": "Brunner",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3143.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4252,
+    "FirstName": "Katja",
+    "LastName": "Christ",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3144.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4253,
+    "FirstName": "Christophe",
+    "LastName": "Clivaz",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3145.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4254,
+    "FirstName": "Damien",
+    "LastName": "Cottier",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3146.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4255,
+    "FirstName": "Christian",
+    "LastName": "Dandrès",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3147.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4256,
+    "FirstName": "Simone",
+    "LastName": "de Montmollin",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3148.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4257,
+    "FirstName": "Jacqueline",
+    "LastName": "de Quattro",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3149.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4257,
+    "FirstName": "Jacqueline",
+    "LastName": "de Quattro",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3149.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4258,
+    "FirstName": "Kurt",
+    "LastName": "Egger",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3150.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4259,
+    "FirstName": "Alex",
+    "LastName": "Farinelli",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3151.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4260,
+    "FirstName": "Fabien",
+    "LastName": "Fivaz",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3152.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4261,
+    "FirstName": "Esther",
+    "LastName": "Friedli",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3153.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4262,
+    "FirstName": "Tamara",
+    "LastName": "Funiciello",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3154.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4262,
+    "FirstName": "Tamara",
+    "LastName": "Funiciello",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3154.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4263,
+    "FirstName": "Andreas",
+    "LastName": "Gafner",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3155.jpg-.jpg",
+    "PartyAbbreviation": "EDU",
+    "Party": 24,
+    "Council": 1
+  },
+  {
+    "ID": 4264,
+    "FirstName": "Jean-Pierre",
+    "LastName": "Gallati",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3156.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4265,
+    "FirstName": "Anna",
+    "LastName": "Giacometti",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3157.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4266,
+    "FirstName": "Benjamin",
+    "LastName": "Giezendanner",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3158.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4267,
+    "FirstName": "Corina",
+    "LastName": "Gredig",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3159.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4268,
+    "FirstName": "Greta",
+    "LastName": "Gysin",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3160.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4270,
+    "FirstName": "Baptiste",
+    "LastName": "Hurni",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3162.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4271,
+    "FirstName": "Sidney",
+    "LastName": "Kamerzin",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3163.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4272,
+    "FirstName": "Delphine",
+    "LastName": "Klopfenstein Broggini",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3164.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4273,
+    "FirstName": "Sandra",
+    "LastName": "Locher Benguerel",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3165.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4274,
+    "FirstName": "Jörg",
+    "LastName": "Mäder",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3166.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4275,
+    "FirstName": "Vincent",
+    "LastName": "Maitre",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3167.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4276,
+    "FirstName": "Michel",
+    "LastName": "Matter",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3168.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4277,
+    "FirstName": "Melanie",
+    "LastName": "Mettler",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3169.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4278,
+    "FirstName": "Sophie",
+    "LastName": "Michaud Gigon",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3170.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4279,
+    "FirstName": "François",
+    "LastName": "Pointet",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3171.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4280,
+    "FirstName": "Léonore",
+    "LastName": "Porchet",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3172.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4281,
+    "FirstName": "Jon",
+    "LastName": "Pult",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3173.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4282,
+    "FirstName": "Thomas",
+    "LastName": "Rechsteiner",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3174.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4283,
+    "FirstName": "Franziska",
+    "LastName": "Roth",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3175.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4284,
+    "FirstName": "Marie-France",
+    "LastName": "Roth Pasquier",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3176.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4285,
+    "FirstName": "Monika",
+    "LastName": "Rüegger",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3177.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4286,
+    "FirstName": "Franziska",
+    "LastName": "Ryser",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3178.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4287,
+    "FirstName": "Barbara",
+    "LastName": "Schaffner",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3179.jpg-.jpg",
+    "PartyAbbreviation": "glp",
+    "Party": 1336,
+    "Council": 1
+  },
+  {
+    "ID": 4288,
+    "FirstName": "Marionna",
+    "LastName": "Schlatter",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3180.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4288,
+    "FirstName": "Marionna",
+    "LastName": "Schlatter",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3180.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4289,
+    "FirstName": "Meret",
+    "LastName": "Schneider",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3181.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4290,
+    "FirstName": "Andri",
+    "LastName": "Silberschmidt",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3182.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4292,
+    "FirstName": "Simon",
+    "LastName": "Stadler",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3184.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4293,
+    "FirstName": "Manuel",
+    "LastName": "Strupler",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3185.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4294,
+    "FirstName": "Lilian",
+    "LastName": "Studer",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3186.jpg-.jpg",
+    "PartyAbbreviation": "EVP",
+    "Party": 18,
+    "Council": 1
+  },
+  {
+    "ID": 4295,
+    "FirstName": "Gabriela",
+    "LastName": "Suter",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3187.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4296,
+    "FirstName": "Susanne",
+    "LastName": "Vincenz-Stauffacher",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3188.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4297,
+    "FirstName": "Nicolas",
+    "LastName": "Walder",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3189.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4298,
+    "FirstName": "Manuela",
+    "LastName": "Weichelt-Picard",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3190.jpg-.jpg",
+    "PartyAbbreviation": "Al",
+    "Party": 1584,
+    "Council": 1
+  },
+  {
+    "ID": 4299,
+    "FirstName": "Felix",
+    "LastName": "Wettstein",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3191.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4300,
+    "FirstName": "Céline",
+    "LastName": "Widmer",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3192.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4301,
+    "FirstName": "Stefania",
+    "LastName": "Prezioso Batou",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3161.jpg-.jpg",
+    "PartyAbbreviation": "EGsolS",
+    "Party": 1585,
+    "Council": 1
+  },
+  {
+    "ID": 4303,
+    "FirstName": "Marianne",
+    "LastName": "Maret",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3200.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  },
+  {
+    "ID": 4304,
+    "FirstName": "Mustafa",
+    "LastName": "Atici",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3201.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4305,
+    "FirstName": "Priska",
+    "LastName": "Wismer-Felder",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3202.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 1
+  },
+  {
+    "ID": 4306,
+    "FirstName": "Johanna",
+    "LastName": "Gapany",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3183.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4307,
+    "FirstName": "Valentine",
+    "LastName": "Python",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3203.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4308,
+    "FirstName": "Isabelle",
+    "LastName": "Pasquier-Eichenberger",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3204.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4309,
+    "FirstName": "Matthias",
+    "LastName": "Michel",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3205.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 2
+  },
+  {
+    "ID": 4310,
+    "FirstName": "Lars",
+    "LastName": "Guggisberg",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3206.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4311,
+    "FirstName": "Piero",
+    "LastName": "Marchesi",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3207.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4312,
+    "FirstName": "Bruno",
+    "LastName": "Storni",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3208.jpg-.jpg",
+    "PartyAbbreviation": "SP",
+    "Party": 12,
+    "Council": 1
+  },
+  {
+    "ID": 4313,
+    "FirstName": "Maja",
+    "LastName": "Riniker",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3209.jpg-.jpg",
+    "PartyAbbreviation": "FDP-Liberale",
+    "Party": 15,
+    "Council": 1
+  },
+  {
+    "ID": 4314,
+    "FirstName": "Stefanie",
+    "LastName": "Heimgartner",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3210.jpg-.jpg",
+    "PartyAbbreviation": "SVP",
+    "Party": 13,
+    "Council": 1
+  },
+  {
+    "ID": 4315,
+    "FirstName": "Florence",
+    "LastName": "Brenzikofer",
+    "GenderAsString": "f",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3211.jpg-.jpg",
+    "PartyAbbreviation": "GPS",
+    "Party": 20,
+    "Council": 1
+  },
+  {
+    "ID": 4316,
+    "FirstName": "Othmar",
+    "LastName": "Reichmuth",
+    "GenderAsString": "m",
+    "ImageUrl": "https://parlaqui.rokka.io/par/-3212.jpg-.jpg",
+    "PartyAbbreviation": "CVP",
+    "Party": 14,
+    "Council": 2
+  }
+]
